@@ -1,24 +1,78 @@
-# 🔐 Cybersecurity Enthusiast | Email Deliverability | Cloud Security
+# 🔐 Cyber Criminologist | AI Email Security | Cloud & Threat Operations
 
-## 👨‍💻 About Me  
-Welcome! I’m a **Security Professional** with a passion for cybersecurity, Cloud, automation, and threat hunting.  
+## 👋 Hi, I’m Pranith Jain  
+Security professional focused on **threat detection, AI driven security automation, email security, and cloud defense**.  
+I work at the intersection of **cybercrime analysis, SOC operations, and practical AI workflows**.
 
-💡 **Interests**:  
+I don’t just detect threats. I **design systems that prevent them at scale**.
+
+🌐 Personal Site. https://pranithjain.qzz.io  
+📍 Open to security engineering, SOC, detection, and AI security roles.
+
+---
+
+## 🧠 Core Focus Areas
 - Threat Detection & Incident Response  
-- SIEM & Log Analysis  
-- SOC Automation & Threat Intelligence  
+- Email Security, Deliverability, Abuse Prevention  
+- SIEM Engineering & Log Analytics  
+- Cloud Security Architecture  
+- SOC Automation & AI Assisted Triage  
+- Cybercrime & Adversary Behavior Analysis  
+- OpSec & Digital Risk Protection  
 
-🛠 **Tools & Technologies**:  
-- **SIEM**: Microsoft Sentinel, Sumo Logic, ELK.
-- **Cloud**: Microsoft Azure and Google cloud platform
-- **Endpoint Security**: Cybereason, Microsoft Defender  
-- **Threat Intelligence**: VirusTotal, Shodan, URL Scan, IBM X-Force Intelligence  
-- **Network Detection & Response**: ExtraHop NDR  
-- **XDR**: Sophos XDR, Cyberreason EDR   
-- **Security Tools**: Intruder, Wireshark  
-- **Scripting**: Python, Bash, PowerShell
-- **AI Automation**: Prompt Enginerring, Ai Workflows, n8n automation. No code/Low Code, Vibe Coding.
+---
 
+## 🛠️ Tools & Technologies
+
+### 🔎 Detection, SIEM & SOC
+- Microsoft Sentinel  
+- Sumo Logic  
+- ELK Stack  
+- Log correlation, alert tuning, detection engineering  
+
+### ☁️ Cloud Security
+- Microsoft Azure  
+- Google Cloud Platform  
+- IAM, logging, threat monitoring, posture hardening  
+
+### 🧩 Endpoint & XDR
+- Microsoft Defender  
+- Cybereason  
+- Sophos XDR  
+
+### 🌐 Threat Intelligence
+- VirusTotal  
+- Shodan  
+- URLScan  
+- IBM X-Force Intelligence  
+
+### 📡 Network & Traffic Analysis
+- ExtraHop NDR  
+- Wireshark  
+
+### 🛡️ Security Tooling
+- Intruder  
+- Custom detection scripts and workflows  
+
+---
+
+## 🤖 AI & Automation
+- Prompt Engineering for Security Use Cases  
+- AI Workflows for SOC and Email Security  
+- n8n Automation  
+- No Code and Low Code Security Pipelines  
+- Vibe Coding for rapid prototyping  
+
+---
+
+## 💻 Scripting & Engineering
+- Python  
+- Bash  
+- PowerShell  
+
+Used for detection logic, automation, enrichment, and response workflows.
+
+---
 
 
 📊 GitHub Stats
@@ -50,7 +104,24 @@ Welcome! I’m a **Security Professional** with a passion for cybersecurity, Clo
   </a>
 </div>
 
+---
 
+## 🚀 What You’ll Find Here
+- Security research and PoCs  
+- SOC automation experiments  
+- Threat analysis and tooling  
+- Cloud and email security projects  
+- AI driven security workflows  
 
-🚀 Key Contributions
-Explore the projects, tools, and research I've worked on in my repositories. Feel free to contribute or raise issues!
+If it improves detection, response, or resilience. It belongs here.
+
+---
+
+## 🤝 Let’s Build Secure Systems
+I’m always open to:
+- Collaborating on security tools  
+- Reviewing detection logic  
+- Discussing AI in cybersecurity  
+- Contributing to open source security projects  
+
+Security is a team sport. Let’s raise the bar.

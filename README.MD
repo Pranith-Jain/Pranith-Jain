@@ -1,127 +1,178 @@
-# 🔐 Cyber Criminologist | AI Email Security | Cloud & Threat Operations
+<div align="center">
 
-## 👋 Hi, I’m Pranith Jain  
-Security professional focused on **threat detection, AI driven security automation, email security, and cloud defense**.  
-I work at the intersection of **cybercrime analysis, SOC operations, and practical AI workflows**.
+```
+██████╗ ██████╗  █████╗ ███╗   ██╗██╗████████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗████╗  ██║██║╚══██╔══╝██║  ██║
+██████╔╝██████╔╝███████║██╔██╗ ██║██║   ██║   ███████║
+██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║██║   ██║   ██╔══██║
+██║     ██║  ██║██║  ██║██║ ╚████║██║   ██║   ██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-I don’t just detect threats. I **design systems that prevent them at scale**.
+### System Security Analyst · Email Security · Threat Intelligence · Security Automation
 
-🌐 Personal Site. https://pranithjain.qzz.io  
-📍 Open to security engineering, SOC, detection, and AI security roles.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranithjain/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranithjain.qzz.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pranithjain.qzz.io)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Npj8448)
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=Pranith-Jain&label=Profile+Views&color=0e75b6&style=flat)
 
-## 🧠 Core Focus Areas
-- Threat Detection & Incident Response  
-- Email Security, Deliverability, Abuse Prevention  
-- SIEM Engineering & Log Analytics  
-- Cloud Security Architecture  
-- SOC Automation & AI Assisted Triage  
-- Cybercrime & Adversary Behavior Analysis  
-- OpSec & Digital Risk Protection  
-
----
-
-## 🛠️ Tools & Technologies
-
-### 🔎 Detection, SIEM & SOC
-- Microsoft Sentinel  
-- Sumo Logic  
-- ELK Stack  
-- Log correlation, alert tuning, detection engineering  
-
-### ☁️ Cloud Security
-- Microsoft Azure  
-- Google Cloud Platform  
-- IAM, logging, threat monitoring, posture hardening  
-
-### 🧩 Endpoint & XDR
-- Microsoft Defender  
-- Cybereason  
-- Sophos XDR  
-
-### 🌐 Threat Intelligence
-- VirusTotal  
-- Shodan  
-- URLScan  
-- IBM X-Force Intelligence  
-
-### 📡 Network & Traffic Analysis
-- ExtraHop NDR  
-- Wireshark  
-
-### 🛡️ Security Tooling
-- Intruder  
-- Custom detection scripts and workflows  
+</div>
 
 ---
 
-## 🤖 AI & Automation
-- Prompt Engineering for Security Use Cases  
-- AI Workflows for SOC and Email Security  
-- n8n Automation  
-- No Code and Low Code Security Pipelines  
-- Vibe Coding for rapid prototyping  
+## whoami
+
+```yaml
+name: Pranith Jain
+role: System Security Analyst
+company: Qubit Capital
+location: Bengaluru, India
+focus:
+  - Email Security & BEC Investigations
+  - Threat Intelligence & IOC Analysis
+  - Phishing Triage & Malware Detection
+  - Security Automation & AI Workflows
+  - DMARC Enforcement & Domain Abuse Monitoring
+currently_building:
+  - MCP-based threat intelligence pipelines
+  - n8n security automation workflows
+  - AI-powered email security tooling with Claude Code
+open_to: Security Engineering · Detection Engineering · AI Security · Email Security roles
+```
 
 ---
 
-## 💻 Scripting & Engineering
-- Python  
-- Bash  
-- PowerShell  
+## what I work on
 
-Used for detection logic, automation, enrichment, and response workflows.
+I secure email infrastructure at scale and build the tools to do it faster.
+
+At Qubit Capital I own email security across 150+ early-stage startups — 1,300+ domains, 2,700+ inboxes, and a continuous stream of phishing, BEC, and impersonation threats to investigate, block, and remediate.
+
+- Investigated **200+ phishing, BEC, and malware incidents** — cutting false positives by 25% and analysis time by 35%
+- Enforced **SPF, DKIM, DMARC** across 1,000+ domains — 98%+ authentication alignment, 60% drop in spoofing incidents
+- Automated phishing triage pipelines in **n8n** — response time from 4 hours to under 90 minutes
+- Built an **email infrastructure monitoring dashboard** with Claude Code — real-time visibility across 1,300+ domains and 2,700+ inboxes
+- Developed a **Smartlead MCP server** with 23 custom analytics tools for Claude Code-queryable campaign intelligence
+- Identified and mitigated **30+ lookalike domain campaigns** — phishing surface area reduced by 40%
 
 ---
 
+## tech stack
 
-📊 GitHub Stats
+### security operations
+![Sumo Logic](https://img.shields.io/badge/Sumo_Logic-000099?style=for-the-badge&logo=sumologic&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=for-the-badge&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+### email security
+![Gmail](https://img.shields.io/badge/DMARC_Enforcement-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### automation & AI
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### threat intelligence & OSINT
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-0078D7?style=for-the-badge&logoColor=white)
+![IBM](https://img.shields.io/badge/IBM_X--Force-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+### cloud security
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+---
+
+## featured project
+
+### Qubit Email Infrastructure Automation Platform
+
+> End-to-end platform for domain purchase, DNS setup, Google Workspace provisioning, and email warmup management across 1,300+ domains.
+
+```
+Domain Purchase → DNS Config → Workspace Provisioning → Warmup → Monitoring
+     Spaceship        Cloudflare      Playwright           Smartlead     Dashboard
+```
+
+- Automated 6 previously disconnected workflows into one platform
+- Per-domain setup time: several hours → under 10 minutes
+- Smartlead MCP server with 23 analytics tools for Claude Code querying
+- Real-time monitoring dashboards across 2,700+ inboxes
+
+**Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+## what you'll find here
+
+- Email security tooling and automation
+- MCP server builds for security workflows
+- n8n pipeline templates for phishing triage and IOC enrichment
+- Threat intelligence and OSINT scripts
+- Claude Code security experiments and AI-powered detection workflows
+- Domain abuse monitoring and DMARC enforcement tools
+
+---
+
+## certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Proofpoint Certified AI Email Security Specialist | Proofpoint | 2025 |
+| Google Cloud Cybersecurity Certificate | Google | 2025 |
+| Certified Cyber Criminologist | Virtual Cyber Labs | 2025 |
+| Certified Multi-Cloud Blue Team Analyst (MCBTA) | CyberWarfare Labs | 2025 |
+| Certified Network Security Practitioner (CNSP) | The SecOps Group | 2025 |
+| Certified MindStudio AI Agent Developer | MindStudio | 2025 |
+
+---
+
+## github stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranith-Jain&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranith-Jain&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
+![Pranith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranith-Jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Pranith-Jain&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
- 📈 Profile Views
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranithjainbp84&label=Profile%20views&color=0e75b6&style=flat" alt="Pranith-Jain" /> </p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Pranith-Jain&theme=tokyonight&hide_border=true)
 
-<img align="right" height="150" src="https://media.tenor.com/0m1GsuD-53wAAAAj/mlbb-jjk-jjk-mlbb.gif"  />
-
-
-
-📬 Connect with Me
-
-<div align="left">
-  <a href="mailto:hello@pranithjain.qzz.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pranithjain/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Npj8448" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
 </div>
 
 ---
 
-## 🚀 What You’ll Find Here
-- Security research and PoCs  
-- SOC automation experiments  
-- Threat analysis and tooling  
-- Cloud and email security projects  
-- AI driven security workflows  
+## open to
 
-If it improves detection, response, or resilience. It belongs here.
+- Collaborating on email security tools and detection pipelines
+- Building AI-powered security automation with Claude Code and MCP
+- Discussing threat intelligence, BEC investigation techniques, and OSINT
+- Contributing to open source security projects
+
+Security is a team sport. Let's raise the bar.
 
 ---
 
-## 🤝 Let’s Build Secure Systems
-I’m always open to:
-- Collaborating on security tools  
-- Reviewing detection logic  
-- Discussing AI in cybersecurity  
-- Contributing to open source security projects  
+<div align="center">
 
-Security is a team sport. Let’s raise the bar.
+*Currently building at the intersection of AI and email security*
+
+</div>

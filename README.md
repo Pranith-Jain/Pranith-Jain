@@ -190,17 +190,15 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranith-Jain&theme=tokyo-night&hide_border=true&radius=8&height=220&area=true" alt="Activity Graph" />
 </a>
 
-<a href="https://github.com/Pranith-Jain">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranith-Jain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</a>
-
 </div>
 
 <!-- Note: github-readme-stats.vercel.app is intentionally not used here.
      That deployment hot-cold caches on Vercel's free tier and regularly
      fails to serve the SVG, leaving the alt text rendered as a broken
-     link. Streak (demolab.com), activity-graph and trophy
-     (vercel.app — different deployments) have been more stable. -->
+     link. github-profile-trophy.vercel.app is also gone (returns 402),
+     so the trophy block was dropped — streak (demolab.com) and the
+     activity-graph vercel.app deployment are the only third-party
+     widgets in this section. -->
 
 ---
 

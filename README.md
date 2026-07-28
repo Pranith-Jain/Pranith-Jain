@@ -39,7 +39,7 @@ focus:
   - Security Automation & AI Workflows
   - DMARC Enforcement & Domain Abuse Monitoring
 currently_building:
-  - DFIR toolkit (70+ MCP tools) + self-updating Threat Intel platform on Cloudflare Workers
+  - 4 edge-native security platforms (90+ tools, 100+ feeds) on Cloudflare Workers
   - Autonomous case-study blog: discover → AI generate → anti-slop QA gate → publish
   - Hourly cross-source IOC correlation + in-browser Detection Lab + universal rule converter
 expanding_into:
@@ -62,16 +62,15 @@ I do threat intel and email defense at scale, and I build the tools that make it
 
 ---
 
-## featured project: DFIR Toolkit + Threat Intel Platform
+## featured platforms
 
-> **Live:** [pranithjain.qzz.io](https://pranithjain.qzz.io) · [/dfir](https://pranithjain.qzz.io/dfir) · [/threatintel](https://pranithjain.qzz.io/threatintel)
-> **Source:** [Pranith-Jain.github.io](https://github.com/Pranith-Jain/Pranith-Jain.github.io)
+> **Live:** [pranithjain.qzz.io](https://pranithjain.qzz.io) · **Source:** [Pranith-Jain.github.io](https://github.com/Pranith-Jain/Pranith-Jain.github.io)
 
-One Cloudflare Workers deploy. **70+ analyst tools** and a live, self-updating CTI surface — zero signup, zero keys required, edge-cached and free at the edge.
+Four edge-native security platforms on one Cloudflare Workers deploy — zero signup, zero keys, edge-cached and free.
 
-### `/dfir` — DFIR Toolkit
+### CRUCIBLE — `/dfir` · DFIR Toolkit
 
-70+ interactive tools across triage, OSINT, email security, detection engineering, AI-security, data security, cloud, API. Highlights:
+**90+ interactive tools** across triage, OSINT, email security, detection engineering, AI-security, data security, cloud, API. Highlights:
 
 - **IOC & Hash Checker** — streams 24 providers in parallel for IPs, domains, URLs, hashes
 - **Detection Engine + Universal Rule Converter** — Sigma ↔ KQL ↔ SPL ↔ Lucene ↔ EQL ↔ YARA ↔ DLP via one canonical RuleIR
@@ -79,9 +78,9 @@ One Cloudflare Workers deploy. **70+ analyst tools** and a live, self-updating C
 - **AI-Security tools** — prompt-injection red-team, MCP audit, agent attack-surface map, MITRE ATLAS
 - **Data Security** — Luhn / IBAN / Verhoeff-verified sensitive-data detection, classification, privacy hub
 
-### `/threatintel` — Threat Intel Platform
+### PANOPTICON — `/threatintel` · Threat Intel Platform
 
-20+ live CTI surfaces, hourly-refreshed:
+**100+ live feeds**, hourly-refreshed CTI surface:
 
 - **Ransomware leak-site & negotiation tracking** — across Ransomlook + ransomware.live PRO + MyThreatIntel
 - **Cross-source IOC correlation** — consensus-scored across 18 feeds; live IOC firehose
@@ -89,7 +88,17 @@ One Cloudflare Workers deploy. **70+ analyst tools** and a live, self-updating C
 - **Auto-generated daily + weekly intel briefings** — D1-backed, published at 00:05 / 00:15 UTC
 - **Autonomous case-study blog** — discover → AI generate → anti-slop QA gate → publish; hourly Telegram digest broadcast
 
-Engineered to fit the **Cloudflare Workers free tier**: provider results cache to the Cache API (not KV), single-flight cron locks, per-request nonce CSP, SSRF-guarded outbound fetches.
+### SCOUT — `/radar` · Recon Scanner
+
+**30+ checks** — deep crawl, JS bundle analysis, API endpoint discovery, secret detection, and security scoring. Full reconnaissance in one scan.
+
+### ARGUS — `/argus` · Threat Nexus
+
+Nation-state threat intelligence dashboard with 3D globe visualization, actor dossiers, relationship graphs, and live threat feeds. 6 views: Globe · Cluster · Diamond · Landscape · Feed · Hunt.
+
+---
+
+**Engineering notes:** Built to fit the Cloudflare Workers free tier — provider results cache to the Cache API (not KV), single-flight cron locks, per-request nonce CSP, SSRF-guarded outbound fetches.
 
 **Stack:**
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -98,6 +107,19 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+## by the numbers
+
+| Metric | Value |
+|---|---|
+| Incidents investigated (phishing, BEC, malware) | 250+ |
+| Domains secured (SPF/DKIM/DMARC) | 1,300+ |
+| Inboxes monitored | 2,700+ |
+| Mean response time (via n8n automation) | 4h → <75min |
+| Spoofing incidents reduced | 60% |
+| False positives reduced | 25% |
 
 ---
 
@@ -152,7 +174,7 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
 
 ### flagship
 
-- [**Pranith-Jain.github.io**](https://github.com/Pranith-Jain/Pranith-Jain.github.io) — portfolio + **DFIR toolkit + Threat Intel platform** (the deployed thing at [pranithjain.qzz.io](https://pranithjain.qzz.io))
+- [**Pranith-Jain.github.io**](https://github.com/Pranith-Jain/Pranith-Jain.github.io) — portfolio + **4 security platforms** (the deployed thing at [pranithjain.qzz.io](https://pranithjain.qzz.io))
 - [**dfir-mcp-server**](https://github.com/Pranith-Jain/dfir-mcp-server) — MCP server exposing 20+ DFIR & threat-intel tools for AI agents, built on Cloudflare Workers
 - [**dfir-threat-intel-agent**](https://github.com/Pranith-Jain/dfir-threat-intel-agent) — autonomous multi-step LLM-powered investigator agent (plan→act→observe loop, 30+ intel tools, structured report synthesis)
 - [**DFIR-PLATFORM**](https://github.com/Pranith-Jain/DFIR-PLATFORM) — design trail and prototypes for the toolkit
@@ -203,18 +225,29 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
 <br/>
 
 <a href="https://github.com/Pranith-Jain">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pranith-Jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Pranith-Jain">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pranith-Jain&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Pranith-Jain">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranith-Jain&theme=tokyo-night&hide_border=true&radius=8&height=220&area=true" alt="Activity Graph" />
 </a>
 
 </div>
 
-<!-- Note: github-readme-stats.vercel.app is intentionally not used here.
-     That deployment hot-cold caches on Vercel's free tier and regularly
-     fails to serve the SVG (currently returns 503), leaving the alt text
-     rendered as a broken link. github-profile-trophy.vercel.app is also
-     gone (returns 402), so the trophy block was dropped — streak
-     (demolab.com) and the activity-graph vercel.app deployment are the
-     only third-party widgets in this section. -->
+<!-- Stats widget status (verified 2026-07-28):
+     - streak-stats.demolab.com            → 200 ✓
+     - github-readme-stats-eight-theta     → 200 ✓ (mirror of github-readme-stats)
+     - github-readme-activity-graph        → 200 ✓
+     - github-readme-stats.vercel.app      → 503 ✗ (primary instance down)
+     - github-profile-trophy.vercel.app    → 402 ✗ (service gone) -->
 
 ---
 

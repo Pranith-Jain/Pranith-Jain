@@ -39,7 +39,7 @@ focus:
   - Security Automation & AI Workflows
   - DMARC Enforcement & Domain Abuse Monitoring
 currently_building:
-  - DFIR toolkit (60+ tools) + self-updating Threat Intel platform on Cloudflare Workers
+  - DFIR toolkit (70+ MCP tools) + self-updating Threat Intel platform on Cloudflare Workers
   - Autonomous case-study blog: discover → AI generate → anti-slop QA gate → publish
   - Hourly cross-source IOC correlation + in-browser Detection Lab + universal rule converter
 expanding_into:
@@ -67,11 +67,11 @@ I do threat intel and email defense at scale, and I build the tools that make it
 > **Live:** [pranithjain.qzz.io](https://pranithjain.qzz.io) · [/dfir](https://pranithjain.qzz.io/dfir) · [/threatintel](https://pranithjain.qzz.io/threatintel)
 > **Source:** [Pranith-Jain.github.io](https://github.com/Pranith-Jain/Pranith-Jain.github.io)
 
-One Cloudflare Workers deploy. **60+ analyst tools** and a live, self-updating CTI surface — zero signup, zero keys required, edge-cached and free at the edge.
+One Cloudflare Workers deploy. **70+ analyst tools** and a live, self-updating CTI surface — zero signup, zero keys required, edge-cached and free at the edge.
 
 ### `/dfir` — DFIR Toolkit
 
-60+ interactive tools across triage, OSINT, email security, detection engineering, AI-security, data security, cloud, API. Highlights:
+70+ interactive tools across triage, OSINT, email security, detection engineering, AI-security, data security, cloud, API. Highlights:
 
 - **IOC & Hash Checker** — streams 24 providers in parallel for IPs, domains, URLs, hashes
 - **Detection Engine + Universal Rule Converter** — Sigma ↔ KQL ↔ SPL ↔ Lucene ↔ EQL ↔ YARA ↔ DLP via one canonical RuleIR
@@ -150,9 +150,23 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
 
 ## what you'll find here
 
+### flagship
+
 - [**Pranith-Jain.github.io**](https://github.com/Pranith-Jain/Pranith-Jain.github.io) — portfolio + **DFIR toolkit + Threat Intel platform** (the deployed thing at [pranithjain.qzz.io](https://pranithjain.qzz.io))
+- [**dfir-mcp-server**](https://github.com/Pranith-Jain/dfir-mcp-server) — MCP server exposing 20+ DFIR & threat-intel tools for AI agents, built on Cloudflare Workers
+- [**dfir-threat-intel-agent**](https://github.com/Pranith-Jain/dfir-threat-intel-agent) — autonomous multi-step LLM-powered investigator agent (plan→act→observe loop, 30+ intel tools, structured report synthesis)
 - [**DFIR-PLATFORM**](https://github.com/Pranith-Jain/DFIR-PLATFORM) — design trail and prototypes for the toolkit
+- [**cti-platform**](https://github.com/Pranith-Jain/cti-platform) — live ransomware tracking, cross-source IOC correlation, threat-actor timelines, intel briefings
+
+### CLIs & tooling
+
+- [**dfir-cli**](https://github.com/Pranith-Jain/dfir-cli) — DFIR CLI: IOC extraction, encoding, file analysis, PE triage
+- [**cti-cli**](https://github.com/Pranith-Jain/cti-cli) — command-line threat intelligence: AI copilot, IOC checker, 13+ feeds
 - [**cti-stix-connector**](https://github.com/Pranith-Jain/cti-stix-connector) — containerised Python CLI that ingests JSON campaign + CSV IOC feeds and emits STIX 2.1 bundles
+- [**cti-ai-skills**](https://github.com/Pranith-Jain/cti-ai-skills) — AI skills for CTI workflows
+
+### other
+
 - [**AI-Agent-Portfolio**](https://github.com/Pranith-Jain/AI-Agent-Portfolio) — MindStudio AI Agent experiments
 - [**Secure-Patient-Data-Platform-on-Google-Cloud-Capstone-**](https://github.com/Pranith-Jain/Secure-Patient-Data-Platform-on-Google-Cloud-Capstone-) — Zero Trust HIPAA-aligned GCP capstone (Grade A, 93/100)
 
@@ -186,6 +200,8 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
   <img src="https://streak-stats.demolab.com?user=Pranith-Jain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
+<br/>
+
 <a href="https://github.com/Pranith-Jain">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranith-Jain&theme=tokyo-night&hide_border=true&radius=8&height=220&area=true" alt="Activity Graph" />
 </a>
@@ -194,11 +210,11 @@ Engineered to fit the **Cloudflare Workers free tier**: provider results cache t
 
 <!-- Note: github-readme-stats.vercel.app is intentionally not used here.
      That deployment hot-cold caches on Vercel's free tier and regularly
-     fails to serve the SVG, leaving the alt text rendered as a broken
-     link. github-profile-trophy.vercel.app is also gone (returns 402),
-     so the trophy block was dropped — streak (demolab.com) and the
-     activity-graph vercel.app deployment are the only third-party
-     widgets in this section. -->
+     fails to serve the SVG (currently returns 503), leaving the alt text
+     rendered as a broken link. github-profile-trophy.vercel.app is also
+     gone (returns 402), so the trophy block was dropped — streak
+     (demolab.com) and the activity-graph vercel.app deployment are the
+     only third-party widgets in this section. -->
 
 ---
 

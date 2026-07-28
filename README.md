@@ -225,14 +225,15 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 <br/>
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pranith-Jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/profile-summary-card-output/tokyo_night/3-stats.svg" alt="GitHub Stats" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pranith-Jain&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="Top Languages" />
 </a>
+<img src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/profile-summary-card-output/tokyo_night/2-most-commit-language.svg" alt="Most Commit Language" />
 
 <br/>
 
@@ -242,12 +243,10 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 
 </div>
 
-<!-- Stats widget status (verified 2026-07-28):
-     - streak-stats.demolab.com            → 200 ✓
-     - github-readme-stats-eight-theta     → 200 ✓ (mirror of github-readme-stats)
-     - github-readme-activity-graph        → 200 ✓
-     - github-readme-stats.vercel.app      → 503 ✗ (primary instance down)
-     - github-profile-trophy.vercel.app    → 402 ✗ (service gone) -->
+<!-- Stats cards are generated every 6h by .github/workflows/profile-cards.yml
+     (vn7n24fzkq/github-profile-summary-cards) and committed to
+     profile-summary-card-output/tokyo_night/. No external Vercel dependency.
+     Streak (demolab.com) and activity graph (vercel.app) remain external — both reliable. -->
 
 ---
 

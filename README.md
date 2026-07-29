@@ -225,28 +225,29 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 <br/>
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/profile-summary-card-output/tokyo_night/3-stats.svg" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranith-Jain&theme=tokyo_night" alt="GitHub Stats" />
 </a>
 
 <br/>
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/profile-summary-card-output/tokyo_night/1-repos-per-language.svg" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranith-Jain&theme=tokyo_night" alt="Top Languages" />
 </a>
-<img src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/profile-summary-card-output/tokyo_night/2-most-commit-language.svg" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranith-Jain&theme=tokyo_night" alt="Most Commit Language" />
 
 <br/>
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranith-Jain&theme=tokyo-night&hide_border=true&radius=8&height=220&area=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranith-Jain&theme=tokyo_night&utcOffset=5" alt="Productive Time" />
 </a>
 
 </div>
 
-<!-- Stats cards are generated every 6h by .github/workflows/profile-cards.yml
-     (vn7n24fzkq/github-profile-summary-cards) and committed to
-     profile-summary-card-output/tokyo_night/. No external Vercel dependency.
-     Streak (demolab.com) and activity graph (vercel.app) remain external — both reliable. -->
+<!-- All stats cards are served live by github-profile-summary-cards.vercel.app
+     (vn7n24fzk/github-profile-summary-cards) — no GitHub Actions workflow, no
+     token, no committed SVGs. Streak (demolab.com) and activity graph
+     (vercel.app) are also live external services. If any card fails to load,
+     it returns a blank SVG without breaking the page. -->
 
 ---
 

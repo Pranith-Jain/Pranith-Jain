@@ -219,7 +219,7 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 <div align="center">
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://streak-stats.demolab.com?user=Pranith-Jain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranith-Jain&theme=tokyo_night" alt="GitHub Profile Details" />
 </a>
 
 <br/>
@@ -245,9 +245,9 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 
 <!-- All stats cards are served live by github-profile-summary-cards.vercel.app
      (vn7n24fzk/github-profile-summary-cards) — no GitHub Actions workflow, no
-     token, no committed SVGs. Streak (demolab.com) and activity graph
-     (vercel.app) are also live external services. If any card fails to load,
-     it returns a blank SVG without breaking the page. -->
+     token, no committed SVGs. The profile-details card includes a contributions
+     graph; streak-stats.demolab.com was dropped because it intermittently
+     returns "Failed to retrieve contributions" under GitHub API rate limits. -->
 
 ---
 

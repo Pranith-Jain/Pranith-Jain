@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝
 ```
 
-### Security Analyst & Detection Engineer · Threat Intel · Email Defense · Edge-native Tooling
+### Security Engineer · Threat Intel · AI Security · Product Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranithjain/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranithjain.qzz.io)
@@ -27,38 +27,34 @@
 ## whoami
 
 ```yaml
-name: Pranith Jain
-role: Security Analyst & Detection Engineer
-company: Qubit Capital
-location: Bengaluru, India
+role: Security Engineer · Threat Intel · AI Security · Product Builder
 focus:
   - Threat Intelligence & IOC Analysis
-  - Detection Engineering & Edge-native Security Tooling
-  - Email Security & BEC Investigations
+  - Ransomware Tracking & Dark-Web Monitoring
   - Phishing Triage & Malware Detection
-  - Security Automation & AI Workflows
-  - DMARC Enforcement & Domain Abuse Monitoring
+  - AI Security (prompt injection, MCP, agent attack surface)
+  - Detection Engineering & Edge-native Tooling
+  - Security Product Building
 currently_building:
   - 4 edge-native security platforms (90+ tools, 100+ feeds) on Cloudflare Workers
+  - Ransomware leak-site & negotiation tracking across 3 sources
+  - Darknet site directory (108 sites, 9 categories, live up/down status)
   - Autonomous case-study blog: discover → AI generate → anti-slop QA gate → publish
-  - Hourly cross-source IOC correlation + in-browser Detection Lab + universal rule converter
-expanding_into:
-  - AI Security (prompt injection, MCP, agent attack surface)
-  - Non-Human Identity (NHI) governance
-open_to: Security Engineering · Detection Engineering · AI Security · Threat Intelligence
+open_to: Security Engineering · AI Security · Threat Intelligence · Product Building
 ```
 
 ---
 
 ## what I work on
 
-I do threat intel and email defense at scale, and I build the tools that make it faster.
+I track threats and build the tools that make tracking them faster.
 
-- **Threat intelligence** — ransomware leak-site & negotiation tracking, cross-source IOC correlation, actor / CVE / KEV pivots, MITRE ATT&CK mapping, dark-web & forum intel
-- **Detection engineering** — Sigma / YARA / KQL / SPL / Lucene / EQL / DLP rule authoring + a universal converter that round-trips between them; in-browser detection lab evaluating hourly against a live IOC stream
-- **Email security** — SPF, DKIM, DMARC, BIMI, MTA-STS enforcement; BEC investigation; phishing triage; domain-abuse takedown
-- **Security automation** — n8n & MCP pipelines, AI-driven enrichment & triage with Claude Code, SOC playbooks
-- **AI & cloud security** — prompt-injection testing, MCP audit, agent attack-surface mapping; IAM / Zero Trust posture; NHI governance
+- **Threat intelligence** — ransomware leak-site & negotiation tracking, cross-source IOC correlation, actor / CVE / KEV pivots, MITRE ATT&CK mapping
+- **Ransomware & darknet tracking** — leak-site monitoring, negotiation intel, Tor site directory with live up/down status across 9 categories
+- **Phishing & malware** — triage, detection, IOC extraction, hash reputation lookups
+- **AI security** — prompt-injection red-teaming, MCP audit, agent attack-surface mapping, MITRE ATLAS
+- **Product building** — edge-native security platforms, autonomous AI pipelines, MCP servers for AI agents
+- **Detection engineering** — Sigma / YARA / KQL / SPL / Lucene / EQL rule authoring + a universal converter that round-trips between them
 
 ---
 
@@ -70,11 +66,10 @@ Four edge-native security platforms on one Cloudflare Workers deploy — zero si
 
 ### CRUCIBLE — `/dfir` · DFIR Toolkit
 
-**90+ interactive tools** across triage, OSINT, email security, detection engineering, AI-security, data security, cloud, API. Highlights:
+**90+ interactive tools** across triage, OSINT, detection engineering, AI-security, data security, cloud, API. Highlights:
 
 - **IOC & Hash Checker** — streams 24 providers in parallel for IPs, domains, URLs, hashes
 - **Detection Engine + Universal Rule Converter** — Sigma ↔ KQL ↔ SPL ↔ Lucene ↔ EQL ↔ YARA ↔ DLP via one canonical RuleIR
-- **Email Defense / BEC Score** — SPF / DKIM / DMARC / BIMI / MTA-STS / TLS-RPT scoring
 - **AI-Security tools** — prompt-injection red-team, MCP audit, agent attack-surface map, MITRE ATLAS
 - **Data Security** — Luhn / IBAN / Verhoeff-verified sensitive-data detection, classification, privacy hub
 
@@ -83,6 +78,7 @@ Four edge-native security platforms on one Cloudflare Workers deploy — zero si
 **100+ live feeds**, hourly-refreshed CTI surface:
 
 - **Ransomware leak-site & negotiation tracking** — across Ransomlook + ransomware.live PRO + MyThreatIntel
+- **Darknet directory** — 108 Tor sites across 9 categories with live up/down status
 - **Cross-source IOC correlation** — consensus-scored across 18 feeds; live IOC firehose
 - **Actor timeline + MITRE ATT&CK group/TTP pivot**
 - **Auto-generated daily + weekly intel briefings** — D1-backed, published at 00:05 / 00:15 UTC
@@ -114,11 +110,11 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 
 | Metric | Value |
 |---|---|
-| Incidents investigated (phishing, BEC, malware) | 250+ |
-| Domains secured (SPF/DKIM/DMARC) | 1,300+ |
-| Inboxes monitored | 2,700+ |
+| Incidents investigated (phishing, malware) | 250+ |
+| Ransomware groups tracked | 50+ |
+| Darknet sites monitored | 108 |
+| IOC feeds correlated | 18+ |
 | Mean response time (via n8n automation) | 4h → <75min |
-| Spoofing incidents reduced | 60% |
 | False positives reduced | 25% |
 
 ---
@@ -133,12 +129,12 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-### email security
+### threat intelligence & OSINT
 
-![DMARC](https://img.shields.io/badge/DMARC_Enforcement-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Proofpoint](https://img.shields.io/badge/Proofpoint-0096D6?style=for-the-badge&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-0078D7?style=for-the-badge&logoColor=white)
+![IBM X-Force](https://img.shields.io/badge/IBM_X--Force-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-EE3340?style=for-the-badge&logoColor=white)
 
 ### automation, AI, edge
 
@@ -148,13 +144,6 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### threat intelligence & OSINT
-
-![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-0078D7?style=for-the-badge&logoColor=white)
-![IBM X-Force](https://img.shields.io/badge/IBM_X--Force-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-EE3340?style=for-the-badge&logoColor=white)
 
 ### cloud security
 
@@ -255,8 +244,8 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 
 - Collaborating on **DFIR tooling**, **detection pipelines**, and **CTI platforms**
 - Building **AI-powered security automation** with Claude Code and MCP
-- Discussing **threat intelligence**, BEC investigation techniques, and OSINT
-- **Email security** consulting (DMARC enforcement, deliverability, abuse response)
+- Discussing **threat intelligence**, **ransomware tracking**, and **OSINT**
+- Shipping **security products** end-to-end on edge infrastructure
 - Contributing to **open-source security projects**
 
 Security is a team sport. Let's raise the bar.

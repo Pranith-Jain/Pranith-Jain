@@ -106,19 +106,6 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 
 ---
 
-## by the numbers
-
-| Metric | Value |
-|---|---|
-| Incidents investigated (phishing, malware) | 250+ |
-| Ransomware groups tracked | 50+ |
-| Darknet sites monitored | 108 |
-| IOC feeds correlated | 18+ |
-| Mean response time (via n8n automation) | 4h → <75min |
-| False positives reduced | 25% |
-
----
-
 ## tech stack
 
 ### security operations
@@ -208,35 +195,24 @@ Nation-state threat intelligence dashboard with 3D globe visualization, actor do
 <div align="center">
 
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranith-Jain&theme=tokyo_night" alt="GitHub Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranith-Jain&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </a>
 
-<br/>
-
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranith-Jain&theme=tokyo_night" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranith-Jain&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </a>
 
-<br/>
-
 <a href="https://github.com/Pranith-Jain">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranith-Jain&theme=tokyo_night" alt="Top Languages" />
-</a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranith-Jain&theme=tokyo_night" alt="Most Commit Language" />
-
-<br/>
-
-<a href="https://github.com/Pranith-Jain">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranith-Jain&theme=tokyo_night&utcOffset=5" alt="Productive Time" />
+  <img src="https://streak-stats.demolab.com/?user=Pranith-Jain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
 
-<!-- All stats cards are served live by github-profile-summary-cards.vercel.app
-     (vn7n24fzk/github-profile-summary-cards) — no GitHub Actions workflow, no
-     token, no committed SVGs. The profile-details card includes a contributions
-     graph; streak-stats.demolab.com was dropped because it intermittently
-     returns "Failed to retrieve contributions" under GitHub API rate limits. -->
+<!-- github-readme-stats (anuraghazra) + streak-stats.demolab.com — both live, no
+     token, no committed SVGs. github-readme-stats may briefly 503 under GitHub
+     API rate limits; it self-recovers within the rate-limit window. The old
+     github-profile-summary-cards.vercel.app service was returning HTTP 500 for
+     all endpoints and has been removed. -->
 
 ---
 

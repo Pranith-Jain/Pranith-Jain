@@ -16,18 +16,23 @@
     <circle cx="298" cy="46" r="1.6"/><circle cx="382" cy="46" r="1.6"/><circle cx="466" cy="46" r="1.6"/>
     <circle cx="550" cy="46" r="1.6"/><circle cx="634" cy="46" r="1.6"/><circle cx="718" cy="46" r="1.6"/>
     <circle cx="802" cy="46" r="1.6"/><circle cx="862" cy="46" r="1.6"/>
-    <circle cx="46" cy="130" r="1.6"/><circle cx="214" cy="130" r="1.6"/><circle cx="382" cy="130" r="1.6"/>
-    <circle cx="550" cy="130" r="1.6"/><circle cx="718" cy="130" r="1.6"/><circle cx="862" cy="130" r="1.6"/>
-    <circle cx="46" cy="214" r="1.6"/><circle cx="214" cy="214" r="1.6"/><circle cx="382" cy="214" r="1.6"/>
-    <circle cx="550" cy="214" r="1.6"/><circle cx="718" cy="214" r="1.6"/><circle cx="862" cy="214" r="1.6"/>
+    <circle cx="46" cy="150" r="1.6"/><circle cx="214" cy="150" r="1.6"/><circle cx="382" cy="150" r="1.6"/>
+    <circle cx="550" cy="150" r="1.6"/><circle cx="718" cy="150" r="1.6"/><circle cx="862" cy="150" r="1.6"/>
+    <circle cx="46" cy="254" r="1.6"/><circle cx="214" cy="254" r="1.6"/><circle cx="382" cy="254" r="1.6"/>
+    <circle cx="550" cy="254" r="1.6"/><circle cx="718" cy="254" r="1.6"/><circle cx="862" cy="254" r="1.6"/>
   </g>
   <rect x="60" y="52" width="780" height="196" rx="18" fill="#0d1220" stroke="#232b4d" stroke-width="1.5"/>
+  <rect x="60" y="52" width="4" height="196" rx="2" fill="#2c3ee5"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="92" y="92" fill="#7c8cf8" font-size="15">$ whoami</text>
-    <text x="792" y="92" text-anchor="end" fill="#475569" font-size="14">--edge --intel --ai --builder</text>
-    <text x="92" y="142" fill="#f8fafc" font-size="42" font-weight="700" letter-spacing="1">PRANITH JAIN</text>
-    <text x="92" y="176" fill="#b3bfff" font-size="18">Security Engineer · Threat Intel · AI Security · Product Builder</text>
-    <text x="92" y="208" fill="#6d8bf7" font-size="14">edge-native DFIR · CTI platforms · 90+ tools · 100+ feeds · MCP servers</text>
+    <text x="92" y="90" fill="#7c8cf8" font-size="15">$ whoami</text>
+    <text x="792" y="90" text-anchor="end" fill="#475569" font-size="15">--edge --intel --ai --builder</text>
+  </g>
+  <g font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">
+    <text x="92" y="150" fill="#f8fafc" font-size="44" font-weight="700" letter-spacing="1">PRANITH JAIN</text>
+    <text x="92" y="192" fill="#b3bfff" font-size="18">Security Engineer · Threat Intel · AI Security · Product Builder</text>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="92" y="232" fill="#6d8bf7" font-size="14">edge-native DFIR · CTI platforms · 90+ tools · 100+ feeds · MCP servers</text>
     <text x="792" y="232" text-anchor="end" fill="#5a6cf0" font-size="14">~/pranith</text>
   </g>
 </svg>

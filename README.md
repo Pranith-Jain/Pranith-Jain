@@ -1,9 +1,9 @@
 <!-- ===== HERO ===== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/dark-blue.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/light-blue.svg?v=3">
-  <img alt="Pranith Jain" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/light-blue.svg?v=3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/dark-blue.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/light-blue.svg">
+  <img alt="Pranith Jain" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/light-blue.svg">
 </picture>
 
 <div align="center">
@@ -25,19 +25,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=streak&theme=dark" />
-  <img width="100%" src="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=streak&theme=light" alt="Pranith's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/stats/streak-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/stats/streak-light.svg" alt="Pranith's streak" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=overview&theme=dark" />
-  <img width="49%" src="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=overview&theme=light" alt="Pranith's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/stats/overview-dark.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/stats/overview-light.svg" alt="Pranith's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=langs&theme=dark" />
-  <img width="49%" src="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=langs&theme=light" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/stats/langs-dark.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/stats/langs-light.svg" alt="Top languages" />
 </picture>
 
 </div>

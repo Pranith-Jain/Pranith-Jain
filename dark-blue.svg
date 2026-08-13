@@ -5,7 +5,7 @@
       <stop offset="1" stop-color="#060a08"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.12" cy="0.08" r="0.95">
-      <stop offset="0" stop-color="#2c3ee5" stop-opacity="0.30"/>
+      <stop offset="0" stop-color="#2c3ee5" stop-opacity="0.34"/>
       <stop offset="1" stop-color="#2c3ee5" stop-opacity="0"/>
     </radialGradient>
   </defs>
@@ -22,13 +22,12 @@
     <circle cx="550" cy="214" r="1.6"/><circle cx="718" cy="214" r="1.6"/><circle cx="862" cy="214" r="1.6"/>
   </g>
   <rect x="60" y="52" width="780" height="196" rx="18" fill="#0d1220" stroke="#232b4d" stroke-width="1.5"/>
-  <rect x="60" y="52" width="780" height="196" rx="18" fill="none" stroke="url(#glow)" stroke-opacity="0.6" stroke-width="0"/>
   <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="92" y="94" fill="#7c8cf8" font-size="15">$ whoami</text>
-    <text x="188" y="94" fill="#475569" font-size="15">--engineer --intel --ai-security --builder</text>
-    <text x="92" y="146" fill="#f8fafc" font-size="46" font-weight="700" letter-spacing="1">PRANITH JAIN</text>
-    <text x="92" y="180" fill="#b3bfff" font-size="18">Security Engineer · Threat Intel · AI Security · Product Builder</text>
-    <text x="92" y="212" fill="#2c3ee5" font-size="14">4 edge-native security platforms · 90+ DFIR tools · 100+ CTI feeds · MCP servers on Cloudflare Workers</text>
-    <text x="814" y="228" fill="#5a6cf0" font-size="14">~/pranith</text>
+    <text x="92" y="92" fill="#7c8cf8" font-size="15">$ whoami</text>
+    <text x="792" y="92" text-anchor="end" fill="#475569" font-size="14">--edge --intel --ai --builder</text>
+    <text x="92" y="142" fill="#f8fafc" font-size="42" font-weight="700" letter-spacing="1">PRANITH JAIN</text>
+    <text x="92" y="176" fill="#b3bfff" font-size="18">Security Engineer · Threat Intel · AI Security · Product Builder</text>
+    <text x="92" y="208" fill="#6d8bf7" font-size="14">edge-native DFIR · CTI platforms · 90+ tools · 100+ feeds · MCP servers</text>
+    <text x="792" y="232" text-anchor="end" fill="#5a6cf0" font-size="14">~/pranith</text>
   </g>
 </svg>

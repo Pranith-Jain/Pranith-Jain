@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="185" viewBox="0 0 500 185" role="img" aria-label="Pranith-Jain's Contribution Streak">
+<rect width="500" height="185" rx="14" fill="#0B0E16"/>
+<rect x="1" y="1" width="498" height="183" rx="13" fill="#11182B" stroke="#232C4A" stroke-width="1.5"/>
+<text x="24" y="32" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="700" letter-spacing="0.5">Pranith-Jain's Contribution Streak</text>
+<line x1="24" y1="46" x2="476" y2="46" stroke="#232C4A" stroke-width="1"/>
+<g>
+<text x="24" y="110" fill="#7C8CF8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.5">CURRENT STREAK</text>
+<text x="24" y="146" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="34" font-weight="700">0 days</text>
+<line x1="250" y1="62" x2="250" y2="150" stroke="#232C4A" stroke-width="1"/>
+<text x="274" y="110" fill="#7C8CF8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.5">TOTAL CONTRIBUTIONS</text>
+<text x="274" y="146" fill="#F8FAFC" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="34" font-weight="700">149</text>
+<text x="24" y="165" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11">longest streak: 2 days</text>
+</g>
+</svg>

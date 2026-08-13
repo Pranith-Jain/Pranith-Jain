@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="170" viewBox="0 0 500 170" role="img" aria-label="Pranith Jain's GitHub Stats">
+<rect width="500" height="170" rx="14" fill="#F8FAFF"/>
+<rect x="1" y="1" width="498" height="168" rx="13" fill="#FFFFFF" stroke="#DDE2F5" stroke-width="1.5"/>
+<text x="24" y="32" fill="#10163B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="15" font-weight="700" letter-spacing="0.5">Pranith Jain's GitHub Stats</text>
+<line x1="24" y1="46" x2="476" y2="46" stroke="#DDE2F5" stroke-width="1"/>
+<g>
+<text x="42" y="118" fill="#2C3EE5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="24" font-weight="700">13</text>
+<text x="42" y="140" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.5">TOTAL STARS</text>
+</g><g>
+<text x="164" y="118" fill="#2C3EE5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="24" font-weight="700">39</text>
+<text x="164" y="140" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.5">REPOSITORIES</text>
+</g><g>
+<text x="286" y="118" fill="#2C3EE5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="24" font-weight="700">18</text>
+<text x="286" y="140" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.5">FOLLOWERS</text>
+</g><g>
+<text x="408" y="118" fill="#2C3EE5" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="24" font-weight="700">136</text>
+<text x="408" y="140" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" letter-spacing="1.5">FOLLOWING</text>
+</g>
+</svg>

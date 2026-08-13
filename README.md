@@ -9,32 +9,35 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranithjain/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=10B981)](https://pranithjain.qzz.io)
-[![DFIR Toolkit](https://img.shields.io/badge/DFIR_Toolkit-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=10B981)](https://pranithjain.qzz.io/dfir)
-[![Threat Intel](https://img.shields.io/badge/Threat_Intel-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=10B981)](https://pranithjain.qzz.io/threatintel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=6D8BF7)](https://pranithjain.qzz.io)
+[![DFIR Toolkit](https://img.shields.io/badge/DFIR_Toolkit-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=6D8BF7)](https://pranithjain.qzz.io/dfir)
+[![Threat Intel](https://img.shields.io/badge/Threat_Intel-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=6D8BF7)](https://pranithjain.qzz.io/threatintel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pranithjain.qzz.io)
 [![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Npj8448)
 
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
+<!-- Self-hosted SVG cards served from the portfolio Worker
+     (pranithjain.qzz.io/api/v1/profile/gh-stats) — no third-party
+     github-readme-stats / streak-stats dependency. -->
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Pranith-Jain&hide_border=true&background=0A0A0A&stroke=10B981&ring=059669&fire=DC2626&currStreakLabel=F8FAFC&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=94A3B8&dates=94A3B8&title_color=10B981&card_width=1180&v=1" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Pranith-Jain&hide_border=true&background=F8FAF9&stroke=047857&ring=059669&fire=DC2626&currStreakLabel=047857&sideLabels=065F46&currStreakNum=065F46&sideNums=065F46&dates=047857&title_color=059669&card_width=1180&v=1" alt="Pranith's streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=streak&theme=dark" />
+  <img width="100%" src="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=streak&theme=light" alt="Pranith's streak" />
 </picture>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pranith-Jain&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=10B981&icon_color=10B981&text_color=F8FAFC&bg_color=0A0A0A&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranith-Jain&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=059669&icon_color=059669&text_color=065F46&bg_color=F8FAF9&card_width=500" alt="Pranith's GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=overview&theme=dark" />
+  <img width="49%" src="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=overview&theme=light" alt="Pranith's GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranith-Jain&layout=compact&langs_count=8&hide_border=true&title_color=10B981&text_color=F8FAFC&bg_color=0A0A0A&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranith-Jain&layout=compact&langs_count=8&hide_border=true&title_color=059669&text_color=065F46&bg_color=F8FAF9&card_width=500" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=langs&theme=dark" />
+  <img width="49%" src="https://pranithjain.qzz.io/api/v1/profile/gh-stats?type=langs&theme=light" alt="Top languages" />
 </picture>
 
 </div>
@@ -86,7 +89,7 @@
 ![KV](https://img.shields.io/badge/KV-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![R2](https://img.shields.io/badge/R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000?style=flat-square&logoColor=white&labelColor=10B981)
+![MCP](https://img.shields.io/badge/MCP-000?style=flat-square&logoColor=white&labelColor=2C3EE5)
 
 </td>
 </tr>
@@ -136,8 +139,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranith-Jain&color=10B981&style=flat-square&label=VISITORS)
-![GitHub Followers](https://img.shields.io/github/followers/Pranith-Jain?label=FOLLOWERS&style=flat-square&color=10b981&labelColor=000000)
-![GitHub Stars](https://img.shields.io/github/stars/Pranith-Jain?label=STARS&style=flat-square&color=10b981&labelColor=000000&affiliations=OWNER)
+![Profile Views](https://komarev.com/ghpvc/?username=Pranith-Jain&color=2C3EE5&style=flat-square&label=VISITORS)
+![GitHub Followers](https://img.shields.io/github/followers/Pranith-Jain?label=FOLLOWERS&style=flat-square&color=2c3ee5&labelColor=000000)
+![GitHub Stars](https://img.shields.io/github/stars/Pranith-Jain?label=STARS&style=flat-square&color=2c3ee5&labelColor=000000&affiliations=OWNER)
 
 </div>

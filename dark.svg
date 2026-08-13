@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Pranith Jain — Security Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1210"/>
+      <stop offset="1" stop-color="#060a08"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.08" r="0.95">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="300" fill="url(#bg)"/>
+  <rect width="900" height="300" fill="url(#glow)"/>
+  <g fill="#14241d">
+    <circle cx="46" cy="46" r="1.6"/><circle cx="130" cy="46" r="1.6"/><circle cx="214" cy="46" r="1.6"/>
+    <circle cx="298" cy="46" r="1.6"/><circle cx="382" cy="46" r="1.6"/><circle cx="466" cy="46" r="1.6"/>
+    <circle cx="550" cy="46" r="1.6"/><circle cx="634" cy="46" r="1.6"/><circle cx="718" cy="46" r="1.6"/>
+    <circle cx="802" cy="46" r="1.6"/><circle cx="862" cy="46" r="1.6"/>
+    <circle cx="46" cy="130" r="1.6"/><circle cx="214" cy="130" r="1.6"/><circle cx="382" cy="130" r="1.6"/>
+    <circle cx="550" cy="130" r="1.6"/><circle cx="718" cy="130" r="1.6"/><circle cx="862" cy="130" r="1.6"/>
+    <circle cx="46" cy="214" r="1.6"/><circle cx="214" cy="214" r="1.6"/><circle cx="382" cy="214" r="1.6"/>
+    <circle cx="550" cy="214" r="1.6"/><circle cx="718" cy="214" r="1.6"/><circle cx="862" cy="214" r="1.6"/>
+  </g>
+  <rect x="60" y="52" width="780" height="196" rx="18" fill="#0d1713" stroke="#1e3a2e" stroke-width="1.5"/>
+  <rect x="60" y="52" width="780" height="196" rx="18" fill="none" stroke="url(#glow)" stroke-opacity="0.6" stroke-width="0"/>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="92" y="94" fill="#6ee7b7" font-size="15">$ whoami</text>
+    <text x="188" y="94" fill="#475569" font-size="15">--engineer --intel --ai-security --builder</text>
+    <text x="92" y="146" fill="#f8fafc" font-size="46" font-weight="700" letter-spacing="1">PRANITH JAIN</text>
+    <text x="92" y="180" fill="#a7f3d0" font-size="18">Security Engineer · Threat Intel · AI Security · Product Builder</text>
+    <text x="92" y="212" fill="#10b981" font-size="14">4 edge-native security platforms · 90+ DFIR tools · 100+ CTI feeds · MCP servers on Cloudflare Workers</text>
+    <text x="814" y="228" fill="#34d399" font-size="14">~/pranith</text>
+  </g>
+</svg>

@@ -4,10 +4,14 @@
       <stop offset="0" stop-color="#0b1210"/>
       <stop offset="1" stop-color="#060a08"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.12" cy="0.08" r="0.95">
-      <stop offset="0" stop-color="#2c3ee5" stop-opacity="0.34"/>
+    <radialGradient id="glow" cx="0.5" cy="0" r="0.9">
+      <stop offset="0" stop-color="#2c3ee5" stop-opacity="0.3"/>
       <stop offset="1" stop-color="#2c3ee5" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2c3ee5"/>
+      <stop offset="1" stop-color="#5a6cf0"/>
+    </linearGradient>
   </defs>
   <rect width="900" height="300" fill="url(#bg)"/>
   <rect width="900" height="300" fill="url(#glow)"/>
@@ -21,18 +25,11 @@
     <circle cx="46" cy="254" r="1.6"/><circle cx="214" cy="254" r="1.6"/><circle cx="382" cy="254" r="1.6"/>
     <circle cx="550" cy="254" r="1.6"/><circle cx="718" cy="254" r="1.6"/><circle cx="862" cy="254" r="1.6"/>
   </g>
-  <rect x="60" y="52" width="780" height="196" rx="18" fill="#0d1220" stroke="#232b4d" stroke-width="1.5"/>
-  <rect x="60" y="52" width="4" height="196" rx="2" fill="#2c3ee5"/>
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="92" y="90" fill="#7c8cf8" font-size="15">$ whoami</text>
-    <text x="792" y="90" text-anchor="end" fill="#475569" font-size="15">--edge --intel --ai --builder</text>
-  </g>
-  <g font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif">
-    <text x="92" y="150" fill="#f8fafc" font-size="44" font-weight="700" letter-spacing="1">PRANITH JAIN</text>
-    <text x="92" y="192" fill="#b3bfff" font-size="18">Security Engineer · Threat Intel · AI Security · Product Builder</text>
-  </g>
-  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
-    <text x="92" y="232" fill="#6d8bf7" font-size="14">edge-native DFIR · CTI platforms · 90+ tools · 100+ feeds · MCP servers</text>
-    <text x="792" y="232" text-anchor="end" fill="#5a6cf0" font-size="14">~/pranith</text>
-  </g>
+  <rect x="60" y="52" width="780" height="196" rx="20" fill="#0d1220" stroke="#232b4d" stroke-width="1.5"/>
+  <circle cx="450" cy="100" r="32" fill="url(#mono)"/>
+  <text x="450" y="110" text-anchor="middle" fill="#ffffff" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="24" font-weight="700" letter-spacing="0.5">PJ</text>
+  <text x="450" y="176" text-anchor="middle" fill="#f8fafc" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="40" font-weight="700" letter-spacing="1.5">PRANITH JAIN</text>
+  <text x="450" y="212" text-anchor="middle" fill="#b3bfff" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17">Security Engineer · Threat Intel · AI Security · Product Builder</text>
+  <line x1="382" y1="228" x2="518" y2="228" stroke="#232b4d" stroke-width="1"/>
+  <text x="450" y="244" text-anchor="middle" fill="#94a3b8" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="13" letter-spacing="0.4">Building edge-native security &amp; threat-intel platforms</text>
 </svg>

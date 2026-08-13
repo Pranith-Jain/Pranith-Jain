@@ -1,9 +1,9 @@
 <!-- ===== HERO ===== -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/dark-blue.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/light-blue.svg">
-  <img alt="Pranith Jain" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/light-blue.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/banner-light.svg">
+  <img alt="Pranith Jain" src="https://raw.githubusercontent.com/Pranith-Jain/Pranith-Jain/main/banner-light.svg">
 </picture>
 
 <div align="center">

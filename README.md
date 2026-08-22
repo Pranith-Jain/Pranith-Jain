@@ -4,12 +4,26 @@
 
 <div align="center">
 
+**Security Analyst · Threat Intelligence · Detection Engineering**
+
+I build self-updating threat-intel platforms and DFIR tooling that run entirely on the edge — no signup, no API keys to start, free-tier only.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranithjain/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=6D8BF7)](https://pranithjain.qzz.io)
 [![DFIR Toolkit](https://img.shields.io/badge/DFIR_Toolkit-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=6D8BF7)](https://pranithjain.qzz.io/dfir)
 [![Threat Intel](https://img.shields.io/badge/Threat_Intel-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=6D8BF7)](https://pranithjain.qzz.io/threatintel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pranithjain.qzz.io)
 [![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Npj8448)
+
+</div>
+
+<!-- ===== HIGHLIGHTS ===== -->
+
+<div align="center">
+
+### AT A GLANCE
+
+**186+** analyst tools · **328-tool** MCP server · **60+** IOC providers · **13** replicated TI verticals · **100+** live intel feeds
 
 </div>
 
@@ -116,16 +130,27 @@
 
 <div align="center">
 
-### WHAT I BUILD
+### PLATFORMS — live at [pranithjain.qzz.io](https://pranithjain.qzz.io)
 
 | Platform | What it is | Link |
 |---|---|---|
-| **CRUCIBLE** · DFIR Toolkit | 90+ triage, OSINT, detection & AI-security tools | [pranithjain.qzz.io/dfir](https://pranithjain.qzz.io/dfir) |
-| **PANOPTICON** · Threat Intel | 100+ live feeds, ransomware & darknet tracking | [pranithjain.qzz.io/threatintel](https://pranithjain.qzz.io/threatintel) |
-| **SCOUT** · Recon Scanner | 30+ checks: crawl, JS analysis, secrets, scoring | [pranithjain.qzz.io/radar](https://pranithjain.qzz.io/radar) |
-| **ARGUS** · Threat Nexus | Nation-state intel dashboard, 3D globe, actor dossiers | [pranithjain.qzz.io/argus](https://pranithjain.qzz.io/argus) |
-| **dfir-mcp-server** | 280+ DFIR & threat-intel MCP tools for AI agents | [github.com/Pranith-Jain/dfir-mcp-server](https://github.com/Pranith-Jain/dfir-mcp-server) |
-| **dfir-threat-intel-agent** | Autonomous LLM investigator (plan → act → observe) | [github.com/Pranith-Jain/dfir-threat-intel-agent](https://github.com/Pranith-Jain/dfir-threat-intel-agent) |
+| **CRUCIBLE** · DFIR Toolkit | **186+** interactive tools across 21 categories — triage, OSINT, email defense, detection engineering, AI security, crypto tracing | [/dfir](https://pranithjain.qzz.io/dfir) |
+| **PANOPTICON** · Threat Intel | Self-updating CTI platform — ransomware tracking, CVE/KEV, IOC firehose, actor dossiers; **13** replicated verticals, hourly refresh | [/threatintel](https://pranithjain.qzz.io/threatintel) |
+| **SCOUT** · Recon Scanner | External attack-surface scanning — 30+ checks across crawl, JS analysis, secret exposure, scoring | [/radar](https://pranithjain.qzz.io/radar) |
+| **ARGUS** · Threat Nexus | Nation-state intel dashboard — 3D threat globe, actor timelines, campaign mapping | [/argus](https://pranithjain.qzz.io/argus) |
+
+### OPEN SOURCE
+
+| Repo | What it is |
+|---|---|
+| [**dfir-mcp-server**](https://github.com/Pranith-Jain/dfir-mcp-server) | Standalone MCP server proxying all **323 tools** of the platform API — deploy your own endpoint for Claude Desktop / Cursor |
+| [**dfir-threat-intel-agent**](https://github.com/Pranith-Jain/dfir-threat-intel-agent) | Autonomous LLM investigator — plans, calls intel tools in parallel, QA-verifies, synthesizes cited reports |
+| [**portfolio**](https://github.com/Pranith-Jain/Pranith-Jain.github.io) | The platform monorepo — React SPA + Worker API + MCP server + cron sync pipelines |
+| [**DFIR-PLATFORM**](https://github.com/Pranith-Jain/DFIR-PLATFORM) | Standalone `/dfir` toolkit slice — the open-source distribution of CRUCIBLE |
+| [**cti-cli**](https://github.com/Pranith-Jain/cti-cli) | Threat intelligence from the terminal — AI copilot, **60+** provider IOC checks, feed monitoring |
+| [**dfir-cli**](https://github.com/Pranith-Jain/dfir-cli) | Offline-first DFIR commands — IOC extraction, hashing, PE analysis, encoding |
+| [**cti-ai-skills**](https://github.com/Pranith-Jain/cti-ai-skills) | **5** CTI skills for Claude Code, Cursor & Codex |
+| [**dfir-ai-skills**](https://github.com/Pranith-Jain/dfir-ai-skills) | **2** DFIR investigation skills for AI coding assistants |
 
 </div>
 

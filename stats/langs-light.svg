@@ -6,29 +6,29 @@
 <g>
 <text x="24" y="66" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">TypeScript</text>
 <rect x="24" y="72" width="300" height="8" rx="4" fill="#E5E9FB"/>
-<rect x="24" y="72" width="252" height="8" rx="4" fill="#2C3EE5"/>
-<text x="334" y="70" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">84%</text>
+<rect x="24" y="72" width="277" height="8" rx="4" fill="#2C3EE5"/>
+<text x="334" y="70" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">92%</text>
 </g>
 <g>
-<text x="24" y="88" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">HTML</text>
+<text x="24" y="88" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">Jupyter Notebook</text>
 <rect x="24" y="94" width="300" height="8" rx="4" fill="#E5E9FB"/>
-<rect x="24" y="94" width="29" height="8" rx="4" fill="#2C3EE5"/>
-<text x="334" y="92" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">10%</text>
+<rect x="24" y="94" width="24" height="8" rx="4" fill="#2C3EE5"/>
+<text x="334" y="92" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">3%</text>
 </g>
 <g>
-<text x="24" y="110" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">Jupyter Notebook</text>
+<text x="24" y="110" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">JavaScript</text>
 <rect x="24" y="116" width="300" height="8" rx="4" fill="#E5E9FB"/>
 <rect x="24" y="116" width="24" height="8" rx="4" fill="#2C3EE5"/>
 <text x="334" y="114" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">3%</text>
 </g>
 <g>
-<text x="24" y="132" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">JavaScript</text>
+<text x="24" y="132" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">Python</text>
 <rect x="24" y="138" width="300" height="8" rx="4" fill="#E5E9FB"/>
 <rect x="24" y="138" width="24" height="8" rx="4" fill="#2C3EE5"/>
-<text x="334" y="136" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">2%</text>
+<text x="334" y="136" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">1%</text>
 </g>
 <g>
-<text x="24" y="154" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">Python</text>
+<text x="24" y="154" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">HTML</text>
 <rect x="24" y="160" width="300" height="8" rx="4" fill="#E5E9FB"/>
 <rect x="24" y="160" width="24" height="8" rx="4" fill="#2C3EE5"/>
 <text x="334" y="158" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">1%</text>

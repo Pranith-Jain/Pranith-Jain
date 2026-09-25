@@ -1,7 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Pranith Jain — Threat Intelligence Engineer">
-  <!-- Portfolio tokens (dark): canvas #070b1c · surface #0c1124 · hairlines white 8/14% ·
-       muted #94a3b8 · brand-600 #2c3ee5 solid (no gradients) · brand-300 #a1b6fb ·
-       live dot emerald #34d399 · JetBrains Mono for data, Hanken/Bricolage for type -->
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Pranith Jain — Security Analyst">
+  <!-- Portfolio tokens (dark): canvas #070b1c · hairlines white 8/14% ·
+       muted #94a3b8 · brand-600 #2c3ee5 solid (no gradients) · brand-300 #a1b6fb -->
   <rect width="900" height="300" fill="#070b1c"/>
   <g fill="#ffffff" opacity="0.06">
     <circle cx="46" cy="46" r="1.6"/><circle cx="130" cy="46" r="1.6"/><circle cx="214" cy="46" r="1.6"/>
@@ -13,25 +12,10 @@
     <circle cx="46" cy="254" r="1.6"/><circle cx="214" cy="254" r="1.6"/><circle cx="382" cy="254" r="1.6"/>
     <circle cx="550" cy="254" r="1.6"/><circle cx="718" cy="254" r="1.6"/><circle cx="862" cy="254" r="1.6"/>
   </g>
-  <rect x="285" y="46" width="330" height="28" rx="14" fill="#2c3ee5" opacity="0.16"/>
-  <text x="450" y="64" text-anchor="middle" fill="#a1b6fb" font-family="JetBrains Mono,ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="2">THREAT INTEL · DFIR · AI SECURITY</text>
-  <text x="450" y="138" text-anchor="middle" fill="#f8fafc" font-family="Bricolage Grotesque,Hanken Grotesk,system-ui,sans-serif" font-size="44" font-weight="800" letter-spacing="2">PRANITH JAIN</text>
-  <text x="450" y="168" text-anchor="middle" fill="#94a3b8" font-family="Hanken Grotesk,system-ui,sans-serif" font-size="16">Self-updating threat-intel platforms &amp; DFIR tooling — edge-native, zero keys</text>
-  <g font-family="JetBrains Mono,ui-monospace,Menlo,Consolas,monospace" font-size="11">
-    <rect x="161" y="192" width="98" height="30" rx="15" fill="#ffffff" opacity="0.04" stroke="#ffffff" stroke-opacity="0.14"/>
-    <circle cx="177" cy="207" r="4" fill="#34d399"/>
-    <text x="189" y="211" fill="#cbd5e1">CRUCIBLE</text>
-    <rect x="271" y="192" width="112" height="30" rx="15" fill="#ffffff" opacity="0.04" stroke="#ffffff" stroke-opacity="0.14"/>
-    <circle cx="287" cy="207" r="4" fill="#34d399"/>
-    <text x="299" y="211" fill="#cbd5e1">PANOPTICON</text>
-    <rect x="395" y="192" width="78" height="30" rx="15" fill="#ffffff" opacity="0.04" stroke="#ffffff" stroke-opacity="0.14"/>
-    <circle cx="411" cy="207" r="4" fill="#34d399"/>
-    <text x="423" y="211" fill="#cbd5e1">SCOUT</text>
-    <rect x="485" y="192" width="78" height="30" rx="15" fill="#ffffff" opacity="0.04" stroke="#ffffff" stroke-opacity="0.14"/>
-    <circle cx="501" cy="207" r="4" fill="#34d399"/>
-    <text x="513" y="211" fill="#cbd5e1">ARGUS</text>
-    <rect x="575" y="192" width="164" height="30" rx="15" fill="#2c3ee5"/>
-    <text x="657" y="211" text-anchor="middle" fill="#ffffff" font-weight="700">pranithjain.qzz.io</text>
-  </g>
-  <text x="450" y="262" text-anchor="middle" fill="#94a3b8" font-family="JetBrains Mono,ui-monospace,Menlo,Consolas,monospace" font-size="10" letter-spacing="3">SELF-UPDATING INTEL · ZERO KEYS · FREE-TIER ONLY</text>
+  <rect x="285" y="56" width="330" height="28" rx="14" fill="#2c3ee5" opacity="0.16"/>
+  <text x="450" y="74" text-anchor="middle" fill="#a1b6fb" font-family="JetBrains Mono,ui-monospace,Menlo,Consolas,monospace" font-size="11" letter-spacing="2">THREAT INTEL · DFIR · AI SECURITY</text>
+  <text x="450" y="156" text-anchor="middle" fill="#f8fafc" font-family="Bricolage Grotesque,Hanken Grotesk,system-ui,sans-serif" font-size="48" font-weight="800" letter-spacing="2">PRANITH JAIN</text>
+  <text x="450" y="190" text-anchor="middle" fill="#94a3b8" font-family="Hanken Grotesk,system-ui,sans-serif" font-size="17">Security Analyst · Email Security &amp; Threat Intelligence</text>
+  <line x1="390" y1="212" x2="510" y2="212" stroke="#ffffff" stroke-opacity="0.14" stroke-width="1"/>
+  <text x="450" y="238" text-anchor="middle" fill="#94a3b8" font-family="JetBrains Mono,ui-monospace,Menlo,Consolas,monospace" font-size="10" letter-spacing="3">DETECTION ENGINEERING · OSINT · AI THREAT RESEARCH</text>
 </svg>

@@ -1,6 +1,8 @@
-<!-- ===== HERO ===== -->
-<!-- Banner is a terminal motif, theme-paired. Keep it evergreen (no counts
-     in the art) — all numbers live in AT A GLANCE below, verified 2026-09-25:
+<!-- HERO -->
+<!-- Banner speaks the portfolio design tokens (DESIGN.md in the platform
+     monorepo): dark canvas #070b1c / flat-white light canvas, brand-600
+     #2c3ee5 solid, hairline chips + JetBrains Mono micro-copy. Evergreen
+     art (no counts) — numbers live in AT A GLANCE below, verified 2026-09-25:
      MCP tools = public/mcp-manifest.json `toolCount` (portfolio repo),
      analyst tools = routable pages in src/data/dfir-hubs.ts,
      providers = api/src/providers/*.ts -->

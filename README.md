@@ -23,7 +23,7 @@
 
 ### ABOUT ME
 
-Security Analyst at **Qubit Capital** with 2+ years across threat intelligence, DFIR, and SOC operations. I investigate phishing and BEC at scale — 250+ incidents across 1,300+ domains and 2,700+ inboxes — and automate the toil away with n8n SOAR pipelines that cut response time from 4 hours to 75 minutes. M3AAWG member, previously infra + email security at UnifyCX.
+Security Analyst at **Capgemini** working across threat intelligence, DFIR, and SOC operations. Previously email security & threat intel at Qubit Capital — investigating phishing and BEC at scale (250+ incidents across 1,300+ domains and 2,700+ inboxes) and automating the toil away with n8n SOAR pipelines that cut response time from 4 hours to 75 minutes. M3AAWG member, earlier infra + email security at UnifyCX.
 
 ### FOCUS
 

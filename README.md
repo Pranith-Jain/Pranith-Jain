@@ -177,6 +177,7 @@ Try `check_ioc` · `lookup_cve` · `ti_brief_sector` · `si_get_skill` · `nhi_s
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=Pranith-Jain&color=2C3EE5&style=flat-square&label=VISITORS)
 ![GitHub Followers](https://img.shields.io/github/followers/Pranith-Jain?label=FOLLOWERS&style=flat-square&color=2c3ee5&labelColor=000000)
 ![GitHub Stars](https://img.shields.io/github/stars/Pranith-Jain?label=STARS&style=flat-square&color=2c3ee5&labelColor=000000&affiliations=OWNER)
 

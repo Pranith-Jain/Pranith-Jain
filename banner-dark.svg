@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Pranith Jain — Security Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Pranith Jain — Threat Intelligence Engineer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1210"/>
@@ -8,10 +8,6 @@
       <stop offset="0" stop-color="#2c3ee5" stop-opacity="0.3"/>
       <stop offset="1" stop-color="#2c3ee5" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2c3ee5"/>
-      <stop offset="1" stop-color="#5a6cf0"/>
-    </linearGradient>
   </defs>
   <rect width="900" height="300" fill="url(#bg)"/>
   <rect width="900" height="300" fill="url(#glow)"/>
@@ -25,11 +21,21 @@
     <circle cx="46" cy="254" r="1.6"/><circle cx="214" cy="254" r="1.6"/><circle cx="382" cy="254" r="1.6"/>
     <circle cx="550" cy="254" r="1.6"/><circle cx="718" cy="254" r="1.6"/><circle cx="862" cy="254" r="1.6"/>
   </g>
-  <rect x="60" y="52" width="780" height="196" rx="20" fill="#0d1220" stroke="#232b4d" stroke-width="1.5"/>
-  <circle cx="450" cy="100" r="32" fill="url(#mono)"/>
-  <text x="450" y="110" text-anchor="middle" fill="#ffffff" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="24" font-weight="700" letter-spacing="0.5">PJ</text>
-  <text x="450" y="176" text-anchor="middle" fill="#f8fafc" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="40" font-weight="700" letter-spacing="1.5">PRANITH JAIN</text>
-  <text x="450" y="212" text-anchor="middle" fill="#b3bfff" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="17">Security Engineer · Threat Intel · AI Security · Product Builder</text>
-  <line x1="382" y1="228" x2="518" y2="228" stroke="#232b4d" stroke-width="1"/>
-  <text x="450" y="244" text-anchor="middle" fill="#94a3b8" font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif" font-size="13" letter-spacing="0.4">Building edge-native security &amp; threat-intel platforms</text>
+  <rect x="90" y="34" width="720" height="232" rx="14" fill="#0d1220" stroke="#232b4d" stroke-width="1.5"/>
+  <line x1="90" y1="70" x2="810" y2="70" stroke="#232b4d" stroke-width="1"/>
+  <circle cx="118" cy="52" r="6" fill="#FF5F57" opacity="0.9"/>
+  <circle cx="140" cy="52" r="6" fill="#FEBC2E" opacity="0.9"/>
+  <circle cx="162" cy="52" r="6" fill="#28C840" opacity="0.9"/>
+  <text x="450" y="57" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" letter-spacing="0.5">pranith@edge: ~/threat-intel</text>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15">
+    <text x="122" y="106" fill="#5a6cf0" font-weight="700">$</text>
+    <text x="140" y="106" fill="#94a3b8">whoami --focus</text>
+    <text x="122" y="134" fill="#f8fafc" font-weight="700" font-size="17">Pranith Jain — Threat-Intel Engineer · DFIR + AI Security</text>
+    <text x="122" y="166" fill="#5a6cf0" font-weight="700">$</text>
+    <text x="140" y="166" fill="#94a3b8">ls ~/platform</text>
+    <text x="122" y="192" fill="#b3bfff">crucible/&#160;&#160;panopticon/&#160;&#160;scout/&#160;&#160;argus/</text>
+    <text x="122" y="224" fill="#5a6cf0" font-weight="700">$</text>
+    <text x="140" y="224" fill="#94a3b8">uptime --edge</text>
+    <text x="122" y="250" fill="#64748b" font-size="13">self-updating intel · zero keys · free-tier only</text>
+  </g>
 </svg>

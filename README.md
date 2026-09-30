@@ -16,6 +16,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranithjain/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=6D8BF7)](https://pranithjain.qzz.io)
+[![DFIR Toolkit](https://img.shields.io/badge/DFIR_Toolkit-2C3EE5?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pranithjain.qzz.io/dfir)
+[![Threat Intel](https://img.shields.io/badge/Threat_Intel-C026D3?style=for-the-badge&logo=cloudflare&logoColor=white)](https://pranithjain.qzz.io/threatintel)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@pranithjain.qzz.io)
 [![X](https://img.shields.io/badge/X-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Npj8448)
 
@@ -75,16 +77,34 @@ Security Analyst at **Capgemini** working across threat intelligence, DFIR, and 
 </div>
 
 <!-- ===== FEATURED WORK ===== -->
+<!-- Two distinct things, deliberately not merged:
+     1. WHO I AM  -> the portfolio, which is a site, not a repo.
+     2. WHAT I BUILD -> standalone open-source projects, each its own repo.
+     The platform repo used to be named `Pranith-Jain.github.io` and sat in
+     this table labelled "portfolio", which buried the person behind 171k
+     lines of tooling. Renamed 2026-09-30 (PR #241). -->
 
 <div align="center">
 
-### FEATURED WORK
+### THE PERSON
+
+| | |
+|---|---|
+| **[pranithjain.qzz.io](https://pranithjain.qzz.io)** | My portfolio — background, experience, certifications, case studies, and the reasoning behind everything below |
+
+</div>
+
+<div align="center">
+
+### THE TOOLS
+
+Each of these is a standalone repo, usable on its own:
 
 | Repo | What it is |
 |---|---|
-| [**dfir-mcp-server**](https://github.com/Pranith-Jain/dfir-mcp-server) | MCP server exposing 400+ DFIR & threat-intel tools to AI agents — Claude Desktop / Cursor ready |
+| [**dfir-threat-intel-platform**](https://github.com/Pranith-Jain/dfir-threat-intel-platform) | The main platform — 135+ DFIR tools, live self-updating CTI feeds, and a 332-tool MCP server on one Cloudflare Workers deploy. MIT. |
+| [**dfir-mcp-server**](https://github.com/Pranith-Jain/dfir-mcp-server) | Standalone MCP server — 400+ DFIR & threat-intel tools for AI agents, Claude Desktop / Cursor ready |
 | [**dfir-threat-intel-agent**](https://github.com/Pranith-Jain/dfir-threat-intel-agent) | Autonomous LLM investigator — plans, calls intel tools in parallel, QA-verifies, synthesizes cited reports |
-| [**portfolio**](https://github.com/Pranith-Jain/Pranith-Jain.github.io) | My site + DFIR toolkit + self-updating threat-intel platform — React SPA, edge API, cron sync pipelines |
 | [**cti-cli**](https://github.com/Pranith-Jain/cti-cli) | Threat intel from the terminal — AI copilot, 65+ provider IOC checks, feed monitoring |
 | [**dfir-cli**](https://github.com/Pranith-Jain/dfir-cli) | Offline-first DFIR commands — IOC extraction, hashing, PE analysis, encoding |
 | [**cti-ai-skills**](https://github.com/Pranith-Jain/cti-ai-skills) | CTI skills for Claude Code, Cursor & Codex |
@@ -92,7 +112,7 @@ Security Analyst at **Capgemini** working across threat intelligence, DFIR, and 
 
 </div>
 
-I also run [pranithjain.qzz.io](https://pranithjain.qzz.io) — DFIR toolkit + threat-intel platform, free at the edge, no signup.
+I also run [pranithjain.qzz.io](https://pranithjain.qzz.io) live — DFIR toolkit + threat-intel platform, free at the edge, no signup. The portfolio and the platform are separate surfaces on that one deploy.
 
 <!-- ===== NOW ===== -->
 
